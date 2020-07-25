@@ -6,11 +6,6 @@ function draw() {
 
 }
 
-function branch12() {
-
-	
-}
-
 function branch13() {
 
 }
