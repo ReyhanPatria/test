@@ -6,10 +6,6 @@ function draw() {
 
 }
 
-function master1() {
-
-}
-
 function branch11() {
 
 }
@@ -29,4 +25,8 @@ function branch14() {
 
 function master2() {
 	
+}
+
+function master3() {
+
 }
