@@ -22,3 +22,7 @@ function branch12() {
 function master2() {
 	
 }
+
+function master3() {
+	
+}
